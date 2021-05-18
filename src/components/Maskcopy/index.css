@@ -1,0 +1,39 @@
+#maskcopy {
+    width: 100%;
+    height: 528.3px;
+    background-color: rgba(0,0,0,0.71);
+}
+#vanguard-logo {
+    width: 103.3px;
+    height: 41.7px;
+}
+#vanguard-container {
+    padding-top: 34.2px;
+    padding-left: 123.3px;
+}
+#account-copy {
+    text-align: right;
+    margin-right: 10em;
+}
+#account-copy a {
+    font-size: 0.8rem;
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.25;
+    letter-spacing: normal;
+    margin-right: 3em;
+}
+#welcome-elizabeth-st {
+    padding-left: 123.3px;
+    text-align: left;
+    font-size: 0.8rem;
+}
+#welcome {
+    margin-right: 0.5em;
+}
+#elizabeth-st {
+    color: #ffffff;
+}

@@ -1,0 +1,50 @@
+#investment {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 950px;
+    left: 89.2px;
+    border: 1px solid #cccccc;
+    border-radius: 4.2px;
+    width: 79%;
+    background-color: whitesmoke;
+    padding: 2em;
+}
+#investment-upper {
+    display: flex;
+    flex-direction: row;
+}
+#investment-lower {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.investment-lower-div {
+    display: flex;
+    flex-direction: column;
+    font-size: 0.8rem;
+}
+.investment-lower-div-inner {
+    display: flex;
+    flex-direction: row;
+}
+#investment-upper-span {
+    align-self: center;
+    margin-left: 1em;
+}
+.graph1, .graph2, .graph3 {
+    width: 80px;
+    height: 50px;
+}
+.investment-lower-div-heading {
+    color: black;
+    font-weight: bolder;
+    font-size: 1rem;
+}
+.investment-lower-div-span1 {
+    margin-right: 1em;
+    color: #77ccdc;
+}
+.investment-lower-div-span2 {
+    color: green;
+}

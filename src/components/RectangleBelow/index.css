@@ -1,0 +1,67 @@
+#upper {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2em 1em;
+}
+.upper-div {
+    display: flex;
+    flex-direction: column;
+}
+#lower {
+    display: flex;
+    justify-content: space-evenly;
+}
+#lower-div2 {
+    display: flex;
+    flex-direction: column;
+}
+.lower-div2-amount {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#rectangle-below {
+    position: absolute;
+    top: 273.4px;
+    left: 89.2px;
+    width: 83.3%;
+    background-color: whitesmoke;
+    border-bottom-left-radius: 4.2px;
+    border-bottom-right-radius: 4.2px;
+}
+.amount {
+    color: #77ccdc;
+    font-weight: normal;
+    font-size: 1.5rem;
+}
+#rect-btn {
+    width: 40px;
+    height: 18px;
+    border-radius: 5.8px;
+    background-color: #77ccdc;
+    border: 1px solid #77ccdc;
+    outline: none;
+}
+.lower-div2-money {
+    color: #77ccdc;
+    margin-bottom: 0;
+}
+.lower-div2-money-text {
+    margin-bottom: 0;
+}
+.lower-div2-div {
+    border-bottom: 1px solid #cccccc;
+}
+.lower-div2-amount-para1 {
+    margin-top: 0;
+}
+.lower-div2-amount-para2 {
+    margin-top: 0;
+    margin-left: 100px;
+    color: orange;
+}
+#lower-div2-amount-link {
+    color: black;
+    margin-bottom: 20px;
+    margin-top: 5px;
+}
